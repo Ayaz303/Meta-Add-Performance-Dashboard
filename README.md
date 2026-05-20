@@ -8,6 +8,9 @@ The purpose of this dataset is to analyse advertising performance, optimize targ
 •	CPM, CPC, CTR, and ROAS (efficiency metrics) 
 •	Audience insights (demographics, location, interests) 
 This dataset is ideal for building a Power BI Dashboard to evaluate campaign effectiveness, budget utilization, and user engagement patterns.
+
+
+
 >Dashboard view-  https://github.com/Ayaz303/Meta-Add-Performance-Dashboard/blob/main/Screenshot%202026-05-20%20202503.png
 
 
